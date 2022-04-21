@@ -20,6 +20,7 @@ from tensorflow import keras
 import os
 from tqdm import tqdm
 import time
+import datetime
 ~~~
 
 ## 3.
