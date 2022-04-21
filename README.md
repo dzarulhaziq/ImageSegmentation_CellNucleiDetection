@@ -21,3 +21,7 @@ import os
 from tqdm import tqdm
 import time
 ~~~
+
+## 3.
+
+![20220421-202106_train (1)](https://user-images.githubusercontent.com/103733709/164468583-af36c696-2259-4952-b043-18edccdf7ef9.png)
